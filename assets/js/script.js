@@ -23,7 +23,7 @@ function pegarFrase(frase) {
 }
 
 function re() {
-  location.reload();
+  location.reload(true);
 }
 
 init();
